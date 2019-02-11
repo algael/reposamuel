@@ -1,0 +1,8 @@
+Ramas 
+
+para crearla git branch nombredelarama
+
+para cambiar de rama usar git checkout nombredelarama
+
+reintegrar ramas: primero nos ponemos en la rama de destino git checkout ramadedestino, luego fusionamos las ramas
+git merge nombredelaramaafusionar
